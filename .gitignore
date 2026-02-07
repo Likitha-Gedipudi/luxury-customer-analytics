@@ -1,0 +1,19 @@
+# Data files (too large for GitHub)
+data/raw/*.xlsx
+data/raw/*.csv
+
+# Model files (optional - can be regenerated)
+# models/*.pkl
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
