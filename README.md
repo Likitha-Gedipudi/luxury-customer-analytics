@@ -1,6 +1,6 @@
 # Luxury Customer Analytics Platform
 
-> An end-to-end data analytics project mirroring the work of a **Louis Vuitton Data Specialist**, featuring customer segmentation, churn prediction, demand forecasting, and executive dashboards.
+> An end-to-end data analytics project featuring customer segmentation, churn prediction, demand forecasting, and executive dashboards.
 
 ![Python](https://img.shields.io/badge/Python-3.9+-blue)
 ![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow)
